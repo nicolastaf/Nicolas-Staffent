@@ -1,3 +1,5 @@
 # Nicolas-Staffent
 
-* Développeur Web
+* CV Développeur Web
+
+## Formation O'clock 2022
